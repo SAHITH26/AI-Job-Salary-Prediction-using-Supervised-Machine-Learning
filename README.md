@@ -53,6 +53,16 @@ Dataset Characteristics:
 
 ---
 
+Dataset Source
+
+Dataset Name:
+Global AI Job Market and Salary Trends 2025
+
+Kaggle Dataset Link:
+https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025
+
+---
+
 # Project Objectives
 
 The project was designed to answer the following research questions:
